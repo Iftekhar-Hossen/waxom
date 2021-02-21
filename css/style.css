@@ -488,6 +488,7 @@ svg.svg {
 /* blogs css goes here */
 #blogs{
   margin-top: 90px;
+  margin-bottom: 60px;
 }
 #blogs .blog-card {
   margin-bottom: 30px;
