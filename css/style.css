@@ -27,6 +27,7 @@ a {
   font-size: 25px;
   line-height: 50px;
   text-align: center
+  margin-left: 2px;
 }
 /* preloader  goes here */
 .preloader {
