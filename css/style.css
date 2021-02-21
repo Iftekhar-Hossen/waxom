@@ -486,7 +486,9 @@ svg.svg {
   color: #c7b299;
 }
 /* blogs css goes here */
-
+#blogs{
+  margin-top: 90px;
+}
 #blogs .blog-card {
   margin-bottom: 30px;
 }
